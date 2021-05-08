@@ -5,8 +5,6 @@
 --  Autores:  Walter Daniel Ventura 
 --            Antonio Pinheiro da Silva Júnior
 --            Vinícius Bueno de Moraes
---            Paula
-
 -------------------------------------------------------------------
 
 library IEEE;
