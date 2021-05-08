@@ -1,10 +1,10 @@
 #include <stdio.h>
 
-// Imprimir número de 1 a 10
+// Imprimir número de 1 a 100
 
 int main () {
 	
-	while (numero <= 10){
+	while (numero <= 100){
 		print("%d", numero);
 		numero = numero + 1;
 	}
